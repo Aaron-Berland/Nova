@@ -14,3 +14,4 @@ For generating the project files or makefiles it needs [CMake 3.9+](https://cmak
 
 ## Examples
 For the moment there is only one example consisting on a port to C++ and OpenGL of this [tutorials](https://catlikecoding.com/unity/tutorials/hex-map/) from Unity: 
+![](Examples/HexMap/HexMap-Images/HexMap0.png "HexMap")
